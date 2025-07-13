@@ -42,3 +42,18 @@
 - [Day 27](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day27/dev.md) - Aggregates + Grouping + Window Functions  
 - [Day 28](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day28/dev.md) - Functional Dependencies + Normalization  
 - [Day 29](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day29/dev.md) - NoSQL vs SQL + Indexing Basics  
+
+## Operating Systems
+- [Day 30](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day30/dev.md) - Processes vs Threads  
+- [Day 31](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day31/dev.md) - Scheduling + Starvation/Aging  
+- [Day 32](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day32/dev.md) - Mutexes, Semaphores, Deadlocks  
+- [Day 33](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day33/dev.md) - Virtual Memory + Paging  
+- [Day 34](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day34/dev.md) - mmap + sbrk for Memory Allocation  
+- [Day 35](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day35/dev.md) - OS Boot Process  
+
+## Networking
+- [Day 36](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day36/dev.md) - OSI & TCP/IP Models  
+- [Day 37](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day37/dev.md) - TCP Handshake + Connection Lifecycle  
+- [Day 38](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day38/dev.md) - Ports, IPs, Sockets, Protocols  
+- [Day 39](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day39/dev.md) - DHCP, ICMP, ARP, FTP, DNS  
+- [Day 40](https://github.com/devclub-iitd/Intern-Prep-Series-25/blob/main/Daily%20Resources/Day40/dev.md) - NIC to App-level: How Data Flows  
